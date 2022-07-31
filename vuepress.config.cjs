@@ -16,7 +16,7 @@ module.exports = {
     //   }
     // ]
   ],
-  dest: '/docs-dist',
+  // dest: '/docs-dist',
   plugins: [
     searchPlugin({
       // 配置项
