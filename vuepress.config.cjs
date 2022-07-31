@@ -7,7 +7,7 @@ module.exports = {
   lang: 'zh-CN',
   title: 'Hello, VuePress!',
   description: 'This is my first VuePress site',
-  base: '/translate/',
+  base: '/translate-worker',
   head: [
     // [
     //   "link", {
