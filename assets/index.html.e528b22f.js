@@ -1,0 +1,1 @@
+import{_ as a,o as r,c as t,a as e,b as n}from"./app.4e0d7df3.js";const o={},s=e("h1",{id:"translating-worker",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#translating-worker","aria-hidden":"true"},"#"),n(" Translating Worker")],-1),c=[s];function i(_,d){return r(),t("div",null,c)}var h=a(o,[["render",i],["__file","index.html.vue"]]);export{h as default};
