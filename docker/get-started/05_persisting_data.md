@@ -11,3 +11,41 @@
 实际跑一下，启动两个容器，在一个容器中创建文件，另一个容器看不到。代码略。
 
 ## 容器卷 volume
+
+之前数据会丢失，我们可以通过数据卷 volume 来改变这一切。
+
+卷提供了把容器内外的文件映射的功能，容器内外修改文件会互相同步。卷具体有两种类型：
+
+- `named volumes`
+- `bind mounts`
+
+## 保留 Todo 的数据
+
+采用 [SQLite 数据库](https://www.sqlite.org/index.html) 来持久化数据。这个数据库是个关系型数据库，所有数据存储到单个文件中，非常适合小型项目做演示，后面也会迁移到其他数据库。
+
+因为数据库是单个文件，所以可以利用数据卷来进行数据持久化。
+
+1. 创建数据卷
+
+```sh
+docker volume create todo-db
+```
+
+2. 停止旧应用
+3. 重新启动时候挂载数据卷 `-v`
+
+```sh
+docker run -dp 3000:3000 -v todo-db:/etc/todos getting-started
+```
+
+此时就完成了，重启也能挂载
+
+## 深入数据卷
+
+数据卷存哪了？可以通过 `docker volume inspect todo-db` 来查看具体信息。
+
+## 回顾
+
+接下来看绑定挂载
+
+继续阅读 [挂载绑定](./06_bind_mounts.md)

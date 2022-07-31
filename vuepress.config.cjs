@@ -27,7 +27,7 @@ module.exports = {
       {
         text: 'Docker 文档',
         link: '/docker/',
-        children: [],
+        // children: [],
       },
     ],
     sidebar: [
