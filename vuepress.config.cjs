@@ -27,14 +27,16 @@ module.exports = {
       {
         text: 'Docker 文档',
         link: '/docker/',
-        // children: [],
       },
-    ],
-    sidebar: [
       {
-        text: 'Docker 文档',
-        link: '/docker/',
+        text: 'Nginx 文档',
+        link: '/nginx/',
+      },
+      {
+        text: 'Sqlite 文档',
+        link: '/sqlite/',
       },
     ],
+    sidebar: 'auto',
   }),
 }
