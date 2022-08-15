@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-546078be","path":"/docker/language/","title":"\u6982\u8FF0","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1659401491000,"contributors":[{"name":"Otto","email":"fa@ijust.cc","commits":1}]},"filePathRelative":"docker/language/readme.md"}');export{e as data};
