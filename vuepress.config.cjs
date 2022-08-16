@@ -36,6 +36,10 @@ module.exports = {
         text: 'Sqlite 文档',
         link: '/sqlite/',
       },
+      {
+        text: 'MongoDB 文档',
+        link: '/mongodb/',
+      },
     ],
     sidebar: 'auto',
   }),
