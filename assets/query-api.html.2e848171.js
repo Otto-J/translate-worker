@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-8d3df97a","path":"/mongodb/introduction/query-api.html","title":"\u67E5\u8BE2 api","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1660666905000,"contributors":[{"name":"Otto","email":"fa@ijust.cc","commits":1}]},"filePathRelative":"mongodb/introduction/query-api.md"}');export{t as data};

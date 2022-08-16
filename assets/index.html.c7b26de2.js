@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-43da1f30","path":"/mongodb/mongodb-shell/","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1660666905000,"contributors":[{"name":"Otto","email":"fa@ijust.cc","commits":1}]},"filePathRelative":"mongodb/mongodb-shell/readme.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-628d8419","path":"/docker/storage/bind-mounts.html","title":"\u7ED1\u5B9A\u6302\u8F7D","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1660666905000,"contributors":[{"name":"Otto","email":"fa@ijust.cc","commits":1}]},"filePathRelative":"docker/storage/bind-mounts.md"}');export{t as data};
