@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e7a2062c","path":"/docker/storage/volumes.html","title":"\u6570\u636E\u5377","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1660812482000,"contributors":[{"name":"\u59EC\u8F9B\u5B9D","email":"jixinbao@digitforce.com","commits":1}]},"filePathRelative":"docker/storage/volumes.md"}');export{e as data};

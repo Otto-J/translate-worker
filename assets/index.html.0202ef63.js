@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-1b20cea2","path":"/mongodb/aggregation-operations/","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1660666905000,"contributors":[{"name":"Otto","email":"fa@ijust.cc","commits":1}]},"filePathRelative":"mongodb/aggregation-operations/readme.md"}');export{t as data};

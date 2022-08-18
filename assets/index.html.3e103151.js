@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"Translating Worker","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1660812482000,"contributors":[{"name":"\u59EC\u8F9B\u5B9D","email":"jixinbao@digitforce.com","commits":1}]},"filePathRelative":"README.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1b20cea2","path":"/mongodb/aggregation-operations/","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1660812482000,"contributors":[{"name":"\u59EC\u8F9B\u5B9D","email":"jixinbao@digitforce.com","commits":1}]},"filePathRelative":"mongodb/aggregation-operations/readme.md"}');export{e as data};

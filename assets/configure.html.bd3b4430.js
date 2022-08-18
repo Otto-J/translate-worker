@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-9fb1958e","path":"/nginx/docs/configure.html","title":"\u4ECE\u6E90\u7801\u7F16\u8BD1\u5B89\u88C5 nginx","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1660666905000,"contributors":[{"name":"Otto","email":"fa@ijust.cc","commits":1}]},"filePathRelative":"nginx/docs/configure.md"}');export{t as data};

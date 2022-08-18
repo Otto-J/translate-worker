@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-27f10524","path":"/nginx/docs/install.html","title":"\u5B89\u88C5 nginx","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1660812482000,"contributors":[{"name":"\u59EC\u8F9B\u5B9D","email":"jixinbao@digitforce.com","commits":1}]},"filePathRelative":"nginx/docs/install.md"}');export{t as data};

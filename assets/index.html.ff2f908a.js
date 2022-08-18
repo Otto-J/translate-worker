@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-bfcdd4ea","path":"/mongodb/mongodb-curd-operations/","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1660666905000,"contributors":[{"name":"Otto","email":"fa@ijust.cc","commits":1}]},"filePathRelative":"mongodb/mongodb-curd-operations/readme.md"}');export{t as data};
