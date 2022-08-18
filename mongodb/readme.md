@@ -21,6 +21,12 @@ docker run -d -p 27017:27017 \
 mongo:5.0.10
 ```
 
+启动之后，在 vscode 的插件中，进行数据库连接
+
+```
+mongodb://xinbao@12345678@localhost:27017
+```
+
 `docker-compose` 命令行：
 
 ```yml
